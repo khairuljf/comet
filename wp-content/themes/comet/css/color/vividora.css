@@ -1,0 +1,190 @@
+	/*======== default color vividora.css ===*/
+	
+	/*-- nav menu --*/
+.navbar{
+	border-bottom: 3px solid #f0bc3e;
+	}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a.current{
+	background-color: #f0bc3e;
+	}
+.menu-item-has-children ul.sub-menu{
+	border-top: 3px solid #f0bc3e;
+	}
+ul.sub-menu li a:hover {
+	background: #f0bc3e;
+	}
+.go-section a{
+	color: #f0bc3e;
+	}
+	/*-- home parallax --*/
+.parallax-slider-caption h1 span{
+	color: #f0bc3e;
+	}
+.parallax-slider-caption p{
+	color: #f0bc3e;
+	}
+.parallax-home-button a:hover,.parallax-home-button a:focus{
+	background: #f0bc3e;
+	}
+	/*-- text slider --*/
+.slide-inner-slide ul li span{
+	color: #f0bc3e;
+	}
+.slide-inner-slide .home-flexslider .flex-control-nav li a.active{
+	background-color: #f0bc3e;
+	}
+.get-start-button:hover,.get-start-button:focus{
+	background: #f0bc3e;
+	}
+	/*-- section feather icon --*/
+.feather-icon{
+	background: url("../../images/six-angle-vividora.png") no-repeat 50% 50%;
+	}
+.icon-style{
+	color: #f0bc3e;
+	}
+.link-style .more{
+	background-color: #f0bc3e;
+	}
+.feather-part:hover .feather-icon{
+	background: url("../../images/six-angle-hover-vividora.png") no-repeat 50% 50%;
+	}
+.feather-part:hover.feather-part h3{
+	color: #f0bc3e;
+	}
+	/*-- section parallax one --*/
+.purchase-now .buy-now a span{
+	background-color: #f0bc3e;
+	}
+	/*-- section service --*/
+.section-header-title h1::after{
+	content: url('../../images/trade-mark-vividora.png');
+	}
+.service-icon{
+	background: url('../../images/service-tab-vividora.png') no-repeat 50% 50%;
+	}
+	/*-- section testimonials --*/
+.text-box-top{
+	border-top: 2px solid #f0bc3e;
+	}
+#testimonials-carousel .carousel-indicators .active{
+	background: #f0bc3e;
+	}
+	/*-- section portfolio --*/
+#filters button:hover{
+	background-color: #f0bc3e;
+	}
+#filters button.is-checked{
+	background-color: #f0bc3e;
+	}
+.portfolio-item-inner:hover figcaption{
+	background: rgba(240, 188, 62, 0.90);
+	}
+.project-date{
+	background-color: #f0bc3e;
+	}
+	/*-- section our team member --*/
+.our-team:hover .project-info{
+	background: #f0bc3e;
+	}
+	/*-- section capabilities --*/
+.section-header-title h3::after{
+	content: url('../../images/trade-mark-vividora.png');
+	}
+	/*-- section social --*/
+.social:after{
+	background: rgba(240, 188, 62, 0.90);
+	}
+	/*-- section recent post --*/
+.post-date{
+	background: #f0bc3e;
+	}
+.post-image:hover .projectinfo{
+	background: #f0bc3e;
+	}
+.blog-header-title h1::after{
+	content: url('../../images/trade-mark-vividora.png');
+	}
+.read-more a{
+	background-color: #f0bc3e;
+	}
+.search-input, .search-input:focus{
+	border-bottom: 1px solid #f0bc3e;
+	}
+.search-button{
+	background: #f0bc3e;
+	border-bottom: 1px solid #f0bc3e;
+	}
+.search-button:hover,
+.search-button:focus,
+.search-button:active{
+	background: #f0bc3e;
+	border-bottom: 1px solid #f0bc3e;
+	}
+.sidebar-content ul li a:hover{
+	background: #f0bc3e;
+	}
+.sidebar-content ul li a span{
+	background: #f0bc3e;
+	}
+.latest-post-title ul li:before{
+	color: #f0bc3e;
+	}
+.latest-post-title ul li a:hover{
+	color: #f0bc3e;
+	}
+.blog-tag-clouds ul li a:hover{
+	color: #f0bc3e;
+	}
+.blog-pagination ul li a:hover{
+	background: #f0bc3e;
+	border-color: #f0bc3e;
+	}
+.blog-pagination ul li a.active{
+	background: #f0bc3e;
+	border: 1px solid #f0bc3e;
+	}	
+#blog-single-image-slide .left span, #blog-single-image-slide .right span{
+	background: #f0bc3e;
+	}
+.single-post-inner-quote .quote-icon{
+	color: #f0bc3e;
+	}
+.single-post-inner-quote .link-title small{
+	color: #f0bc3e;
+	}
+.tag-link ul li a:hover{
+	color: #f0bc3e;
+	}
+.comment-section h4 span{
+	color: #f0bc3e;
+	}
+.comment-author .media-body .reply-button a{
+	background: #f0bc3e;
+	}
+	/*-- section price table --*/
+.price{
+	background: url('../../images/price-tag-bg-vividora.png') no-repeat 50% 50%;
+	}
+.buy-now-button  a{
+	border: 3px solid #e4b23a;
+	background: #f0bc3e;
+	}
+	/*-- section contact header --*/
+
+	/*-- section contact --*/
+.contact-form form .form-control:focus{
+	border-color: #f0bc3e;
+	}
+.submit-button{
+	background: #f0bc3e;
+	border: 2px solid #e4b23a;
+	}
+.submit-button:hover{
+	background: #f0bc3e;
+	}
+	/*-- section footer --*/
+footer.bottom-footer{
+	background: #f0bc3e;
+	}

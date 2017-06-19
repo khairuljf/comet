@@ -1,0 +1,190 @@
+	/*======== default color sun.css ======*/
+	
+	/*-- nav menu --*/
+.navbar{
+	border-bottom: 3px solid #ffd737!important;
+	}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a.current{
+	background-color: #ffd737;
+	}
+.menu-item-has-children ul.sub-menu{
+	border-top: 3px solid #ffd737;
+	}
+ul.sub-menu li a:hover {
+	background: #ffd737;
+	}
+.go-section a{
+	color: #ffd737;
+	}
+.btn-primary{
+	background: #ffd737;
+}
+	/*-- home parallax --*/
+.parallax-slider-caption h1 span{
+	color: #ffd737;
+	}
+.parallax-slider-caption p{
+	color: #ffd737;
+	}
+.parallax-home-button a:hover,.parallax-home-button a:focus{
+	background: #ffd737;
+	}
+	/*-- text slider --*/
+.slide-inner-slide ul li span{
+	color: #ffd737;
+	}
+.slide-inner-slide .home-flexslider .flex-control-nav li a.active{
+	background-color: #ffd737;
+	}
+.get-start-button:hover,.get-start-button:focus{
+	background: #ffd737;
+	}
+	/*-- section feather icon --*/
+.feather-icon{
+	background: url("../../images/six-angle.png") no-repeat 50% 50%;
+	}
+.icon-style{
+	color: #ffd737;
+	}
+.link-style .more{
+	background-color: #ffd737;
+	}
+.feather-part:hover .feather-icon{
+	background: url("../../images/six-angle-hover.png") no-repeat 50% 50%;
+	}
+.feather-part:hover.feather-part h3{
+	color: #ffd737;
+	}
+	/*-- section parallax one --*/
+.purchase-now .buy-now a span{
+	background-color: #ffd737;
+	}
+	/*-- section service --*/
+
+.service-icon{
+	background: url('../../images/service-tab.png') no-repeat 50% 50%;
+	}
+	/*-- section testimonials --*/
+.text-box-top{
+	border-top: 2px solid #ffd737;
+	}
+#testimonials-carousel .carousel-indicators .active{
+	background: #ffd737;
+	}
+	/*-- section portfolio --*/
+#filters button:hover{
+	background-color: #ffd737;
+	}
+#filters button.is-checked{
+	background-color: #ffd737;
+	}
+.portfolio-item-inner:hover figcaption{
+	background: rgba(255, 215, 55, 0.90);
+	}
+.project-date{
+	background-color: #ffd737;
+	}
+.member-name{
+	background-color: #ffd737;
+	}
+	/*-- section our team member --*/
+.our-team:hover .project-info{
+	background: #ffd737;
+	}
+	/*-- section capabilities --*/
+
+	/*-- section social --*/
+.social:after{
+	background: rgba(246, 208, 57, 0.85);
+	}
+	/*-- section recent post --*/
+.post-date{
+	background: #ffd737;
+	}
+.post-image:hover .projectinfo{
+	background: #ffd737;
+	}
+
+.read-more a{
+	background-color: #ffd737;
+	}
+.search-input, .search-input:focus{
+	border-bottom: 1px solid #ffd737;
+	}
+.search-button{
+	background: #ffd737;
+	border-bottom: 1px solid #ffd737;
+	}
+.search-button:hover,
+.search-button:focus,
+.search-button:active{
+	background: #ffd737;
+	border-bottom: 1px solid #ffd737;
+	}
+.sidebar-content ul li a:hover{
+	background: #ffd737;
+	}
+.sidebar-content ul li a span{
+	background: #ffd737;
+	}
+.latest-post-title ul li:before{
+	color: #ffd737;
+	}
+.latest-post-title ul li a:hover{
+	color: #ffd737;
+	}
+.blog-tag-clouds ul li a:hover{
+	color: #ffd737;
+	}
+.blog-pagination ul li a:hover{
+	background: #ffd737;
+	border-color: #ffd737;
+	}
+.blog-pagination ul li a.active{
+	background: #ffd737;
+	border: 1px solid #ffd737;
+	}	
+#blog-single-image-slide .left span, #blog-single-image-slide .right span{
+	background: #ffd737;
+	}
+.single-post-inner-quote .quote-icon{
+	color: #ffd737;
+	}
+.single-post-inner-quote .link-title small{
+	color: #ffd737;
+	}
+.tag-link ul li a:hover{
+	color: #ffd737;
+	}
+.comment-section h4 span{
+	color: #ffd737;
+	}
+.comment-author .media-body .reply-button a{
+	background: #ffd737;
+	}
+	/*-- section price table --*/
+.price{
+	background: url('../../images/price-tag-bg.png') no-repeat 50% 50%;
+	}
+.buy-now-button  a{
+	border: 3px solid #ffcc00;
+	background: #ffd737;
+	}
+	/*-- section contact header --*/
+
+	/*-- section contact --*/
+.contact-form form .form-control:focus{
+	border-color: #ffd737;
+	}
+.submit-button{
+	background: #ffd737;
+	border: 2px solid #ffcc00;
+	}
+.submit-button:hover{
+	background: #ffd737;
+	}
+	/*-- section footer --*/
+footer.bottom-footer{
+	background: #ffd737;
+	}

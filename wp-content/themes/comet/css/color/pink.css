@@ -1,0 +1,190 @@
+	/*======== default color pink.css ===*/
+	
+	/*-- nav menu --*/
+.navbar{
+	border-bottom: 3px solid #f637c3;
+	}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a.current{
+	background-color: #f637c3;
+	}
+.menu-item-has-children ul.ub-menu{
+	border-top: 3px solid #f637c3;
+	}
+ul.ub-menu li a:hover {
+	background: #f637c3;
+	}
+.go-section a{
+	color: #f637c3;
+	}
+	/*-- home parallax --*/
+.parallax-slider-caption h1 span{
+	color: #f637c3;
+	}
+.parallax-slider-caption p{
+	color: #f637c3;
+	}
+.parallax-home-button a:hover,.parallax-home-button a:focus{
+	background: #f637c3;
+	}
+	/*-- text slider --*/
+.slide-inner-slide ul li span{
+	color: #f637c3;
+	}
+.slide-inner-slide .home-flexslider .flex-control-nav li a.active{
+	background-color: #f637c3;
+	}
+.get-start-button:hover,.get-start-button:focus{
+	background: #f637c3;
+	}
+	/*-- section feather icon --*/
+.feather-icon{
+	background: url("../../images/six-angle-pink.png") no-repeat 50% 50%;
+	}
+.icon-style{
+	color: #f637c3;
+	}
+.link-style .more{
+	background-color: #f637c3;
+	}
+.feather-part:hover .feather-icon{
+	background: url("../../images/six-angle-hover-pink.png") no-repeat 50% 50%;
+	}
+.feather-part:hover.feather-part h3{
+	color: #f637c3;
+	}
+	/*-- section parallax one --*/
+.purchase-now .buy-now a span{
+	background-color: #f637c3;
+	}
+	/*-- section service --*/
+.section-header-title h1::after{
+	content: url('../../images/trade-mark-pink.png');
+	}
+.service-icon{
+	background: url('../../images/service-tab-pink.png') no-repeat 50% 50%;
+	}
+	/*-- section testimonials --*/
+.text-box-top{
+	border-top: 2px solid #f637c3;
+	}
+#testimonials-carousel .carousel-indicators .active{
+	background: #f637c3;
+	}
+	/*-- section portfolio --*/
+#filters button:hover{
+	background-color: #f637c3;
+	}
+#filters button.is-checked{
+	background-color: #f637c3;
+	}
+.portfolio-item-inner:hover figcaption{
+	background: rgba(246, 55, 195, 0.90);
+	}
+.project-date{
+	background-color: #f637c3;
+	}
+	/*-- section our team member --*/
+.our-team:hover .project-info{
+	background: #f637c3;
+	}
+	/*-- section capabilities --*/
+.section-header-title h3::after{
+	content: url('../../images/trade-mark-pink.png');
+	}
+	/*-- section social --*/
+.social:after{
+	background: rgba(246, 55, 195, 0.90);
+	}
+	/*-- section recent post --*/
+.post-date{
+	background: #f637c3;
+	}
+.post-image:hover .projectinfo{
+	background: #f637c3;
+	}
+.blog-header-title h1::after{
+	content: url('../../images/trade-mark-pink.png');
+	}
+.read-more a{
+	background-color: #f637c3;
+	}
+.search-input, .search-input:focus{
+	border-bottom: 1px solid #f637c3;
+	}
+.search-button{
+	background: #f637c3;
+	border-bottom: 1px solid #f637c3;
+	}
+.search-button:hover,
+.search-button:focus,
+.search-button:active{
+	background: #f637c3;
+	border-bottom: 1px solid #f637c3;
+	}
+.sidebar-content ul li a:hover{
+	background: #f637c3;
+	}
+.sidebar-content ul li a span{
+	background: #f637c3;
+	}
+.latest-post-title ul li:before{
+	color: #f637c3;
+	}
+.latest-post-title ul li a:hover{
+	color: #f637c3;
+	}
+.blog-tag-clouds ul li a:hover{
+	color: #f637c3;
+	}
+.blog-pagination ul li a:hover{
+	background: #f637c3;
+	border-color: #f637c3;
+	}
+.blog-pagination ul li a.active{
+	background: #f637c3;
+	border: 1px solid #f637c3;
+	}	
+#blog-single-image-slide .left span, #blog-single-image-slide .right span{
+	background: #f637c3;
+	}
+.single-post-inner-quote .quote-icon{
+	color: #f637c3;
+	}
+.single-post-inner-quote .link-title small{
+	color: #f637c3;
+	}
+.tag-link ul li a:hover{
+	color: #f637c3;
+	}
+.comment-section h4 span{
+	color: #f637c3;
+	}
+.comment-author .media-body .reply-button a{
+	background: #f637c3;
+	}
+	/*-- section price table --*/
+.price{
+	background: url('../../images/price-tag-bg-pink.png') no-repeat 50% 50%;
+	}
+.buy-now-button  a{
+	border: 3px solid #df39b3;
+	background: #f637c3;
+	}
+	/*-- section contact header --*/
+
+	/*-- section contact --*/
+.contact-form form .form-control:focus{
+	border-color: #f637c3;
+	}
+.submit-button{
+	background: #f637c3;
+	border: 2px solid #df39b3;
+	}
+.submit-button:hover{
+	background: #f637c3;
+	}
+	/*-- section footer --*/
+footer.bottom-footer{
+	background: #f637c3;
+	}

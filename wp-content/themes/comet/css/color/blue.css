@@ -1,0 +1,190 @@
+	/*======== Default Color blue.css ======*/
+	
+	/*-- nav menu --*/
+.navbar{
+	border-bottom: 3px solid #82c6ff;
+	}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a.current{
+	background-color: #82c6ff;
+	}
+.menu-item-has-children ul.sub-menu{
+	border-top: 3px solid #82c6ff;
+	}
+ul.sub-menu li a:hover {
+	background: #82c6ff;
+	}
+.go-section a{
+	color: #82c6ff;
+	}
+	/*-- home parallax --*/
+.parallax-slider-caption h1 span{
+	color: #82c6ff;
+	}
+.parallax-slider-caption p{
+	color: #82c6ff;
+	}
+.parallax-home-button a:hover,.parallax-home-button a:focus{
+	background: #82c6ff;
+	}
+	/*-- text slider --*/
+.slide-inner-slide ul li span{
+	color: #82c6ff;
+	}
+.slide-inner-slide .home-flexslider .flex-control-nav li a.active{
+	background-color: #82c6ff;
+	}
+.get-start-button:hover,.get-start-button:focus{
+	background: #82c6ff;
+	}
+	/*-- section feather icon --*/
+.feather-icon{
+	background: url("../../images/six-angle-blue.png") no-repeat 50% 50%;
+	}
+.icon-style{
+	color: #82c6ff;
+	}
+.link-style .more{
+	background-color: #82c6ff;
+	}
+.feather-part:hover .feather-icon{
+	background: url("../../images/six-angle-hover-blue.png") no-repeat 50% 50%;
+	}
+.feather-part:hover.feather-part h3{
+	color: #82c6ff;
+	}
+	/*-- section parallax one --*/
+.purchase-now .buy-now a span{
+	background-color: #82c6ff;
+	}
+	/*-- section service --*/
+.section-header-title h1::after{
+	content: url('../../images/trade-mark-blue.png');
+	}
+.service-icon{
+	background: url('../../images/service-tab-blue.png') no-repeat 50% 50%;
+	}
+	/*-- section testimonials --*/
+.text-box-top{
+	border-top: 2px solid #82c6ff;
+	}
+#testimonials-carousel .carousel-indicators .active{
+	background: #82c6ff;
+	}
+	/*-- section portfolio --*/
+#filters button:hover{
+	background-color: #82c6ff;
+	}
+#filters button.is-checked{
+	background-color: #82c6ff;
+	}
+.portfolio-item-inner:hover figcaption{
+	background: rgba(130, 198, 255, 0.90);
+	}
+.project-date{
+	background-color: #82c6ff;
+	}
+	/*-- section our team member --*/
+.our-team:hover .project-info{
+	background: #82c6ff;
+	}
+	/*-- section capabilities --*/
+.section-header-title h3::after{
+	content: url('../../images/trade-mark-blue.png');
+	}
+	/*-- section social --*/
+.social:after{
+	background: rgba(130, 198, 255, 0.90);
+	}
+	/*-- section recent post --*/
+.post-date{
+	background: #82c6ff;
+	}
+.post-image:hover .projectinfo{
+	background: #82c6ff;
+	}
+.blog-header-title h1::after{
+	content: url('../../images/trade-mark-blue.png');
+	}
+.read-more a{
+	background-color: #82c6ff;
+	}
+.search-input, .search-input:focus{
+	border-bottom: 1px solid #82c6ff;
+	}
+.search-button{
+	background: #82c6ff;
+	border-bottom: 1px solid #82c6ff;
+	}
+.search-button:hover,
+.search-button:focus,
+.search-button:active{
+	background: #82c6ff;
+	border-bottom: 1px solid #82c6ff;
+	}
+.sidebar-content ul li a:hover{
+	background: #82c6ff;
+	}
+.sidebar-content ul li a span{
+	background: #82c6ff;
+	}
+.latest-post-title ul li:before{
+	color: #82c6ff;
+	}
+.latest-post-title ul li a:hover{
+	color: #82c6ff;
+	}
+.blog-tag-clouds ul li a:hover{
+	color: #82c6ff;
+	}
+.blog-pagination ul li a:hover{
+	background: #82c6ff;
+	border-color: #82c6ff;
+	}
+.blog-pagination ul li a.active{
+	background: #82c6ff;
+	border: 1px solid #82c6ff;
+	}	
+#blog-single-image-slide .left span, #blog-single-image-slide .right span{
+	background: #82c6ff;
+	}
+.single-post-inner-quote .quote-icon{
+	color: #82c6ff;
+	}
+.single-post-inner-quote .link-title small{
+	color: #82c6ff;
+	}
+.tag-link ul li a:hover{
+	color: #82c6ff;
+	}
+.comment-section h4 span{
+	color: #82c6ff;
+	}
+.comment-author .media-body .reply-button a{
+	background: #82c6ff;
+	}
+	/*-- section price table --*/
+.price{
+	background: url('../../images/price-tag-bg-blue.png') no-repeat 50% 50%;
+	}
+.buy-now-button  a{
+	border: 3px solid #62c6ff;
+	background: #82c6ff;
+	}
+	/*-- section contact header --*/
+
+	/*-- section contact --*/
+.contact-form form .form-control:focus{
+	border-color: #82c6ff;
+	}
+.submit-button{
+	background: #82c6ff;
+	border: 2px solid #62c6ff;
+	}
+.submit-button:hover{
+	background: #82c6ff;
+	}
+	/*-- section footer --*/
+footer.bottom-footer{
+	background: #82c6ff;
+	}

@@ -1,0 +1,190 @@
+	/*======== default color turquoiseblue.css ===*/
+	
+	/*-- nav menu --*/
+.navbar{
+	border-bottom: 3px solid #51ff9b;
+	}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a.current{
+	background-color: #51ff9b;
+	}
+.menu-item-has-children ul.sub-menu{
+	border-top: 3px solid #51ff9b;
+	}
+ul.sub-menu li a:hover {
+	background: #51ff9b;
+	}
+.go-section a{
+	color: #51ff9b;
+	}
+	/*-- home parallax --*/
+.parallax-slider-caption h1 span{
+	color: #51ff9b;
+	}
+.parallax-slider-caption p{
+	color: #51ff9b;
+	}
+.parallax-home-button a:hover,.parallax-home-button a:focus{
+	background: #51ff9b;
+	}
+	/*-- text slider --*/
+.slide-inner-slide ul li span{
+	color: #51ff9b;
+	}
+.slide-inner-slide .home-flexslider .flex-control-nav li a.active{
+	background-color: #51ff9b;
+	}
+.get-start-button:hover,.get-start-button:focus{
+	background: #51ff9b;
+	}
+	/*-- section feather icon --*/
+.feather-icon{
+	background: url("../../images/six-angle-tblue.png") no-repeat 50% 50%;
+	}
+.icon-style{
+	color: #51ff9b;
+	}
+.link-style .more{
+	background-color: #51ff9b;
+	}
+.feather-part:hover .feather-icon{
+	background: url("../../images/six-angle-hover-tblue.png") no-repeat 50% 50%;
+	}
+.feather-part:hover.feather-part h3{
+	color: #51ff9b;
+	}
+	/*-- section parallax one --*/
+.purchase-now .buy-now a span{
+	background-color: #51ff9b;
+	}
+	/*-- section service --*/
+.section-header-title h1::after{
+	content: url('../../images/trade-mark-tblue.png');
+	}
+.service-icon{
+	background: url('../../images/service-tab-tblue.png') no-repeat 50% 50%;
+	}
+	/*-- section testimonials --*/
+.text-box-top{
+	border-top: 2px solid #51ff9b;
+	}
+#testimonials-carousel .carousel-indicators .active{
+	background: #51ff9b;
+	}
+	/*-- section portfolio --*/
+#filters button:hover{
+	background-color: #51ff9b;
+	}
+#filters button.is-checked{
+	background-color: #51ff9b;
+	}
+.portfolio-item-inner:hover figcaption{
+	background: rgba(81, 255, 155, 0.90);
+	}
+.project-date{
+	background-color: #51ff9b;
+	}
+	/*-- section our team member --*/
+.our-team:hover .project-info{
+	background: #51ff9b;
+	}
+	/*-- section capabilities --*/
+.section-header-title h3::after{
+	content: url('../../images/trade-mark-tblue.png');
+	}
+	/*-- section social --*/
+.social:after{
+	background: rgba(81, 255, 155, 0.90);
+	}
+	/*-- section recent post --*/
+.post-date{
+	background: #51ff9b;
+	}
+.post-image:hover .projectinfo{
+	background: #51ff9b;
+	}
+.blog-header-title h1::after{
+	content: url('../../images/trade-mark-tblue.png');
+	}
+.read-more a{
+	background-color: #51ff9b;
+	}
+.search-input, .search-input:focus{
+	border-bottom: 1px solid #51ff9b;
+	}
+.search-button{
+	background: #51ff9b;
+	border-bottom: 1px solid #51ff9b;
+	}
+.search-button:hover,
+.search-button:focus,
+.search-button:active{
+	background: #51ff9b;
+	border-bottom: 1px solid #51ff9b;
+	}
+.sidebar-content ul li a:hover{
+	background: #51ff9b;
+	}
+.sidebar-content ul li a span{
+	background: #51ff9b;
+	}
+.latest-post-title ul li:before{
+	color: #51ff9b;
+	}
+.latest-post-title ul li a:hover{
+	color: #51ff9b;
+	}
+.blog-tag-clouds ul li a:hover{
+	color: #51ff9b;
+	}
+.blog-pagination ul li a:hover{
+	background: #51ff9b;
+	border-color: #51ff9b;
+	}
+.blog-pagination ul li a.active{
+	background: #51ff9b;
+	border: 1px solid #51ff9b;
+	}	
+#blog-single-image-slide .left span, #blog-single-image-slide .right span{
+	background: #51ff9b;
+	}
+.single-post-inner-quote .quote-icon{
+	color: #51ff9b;
+	}
+.single-post-inner-quote .link-title small{
+	color: #51ff9b;
+	}
+.tag-link ul li a:hover{
+	color: #51ff9b;
+	}
+.comment-section h4 span{
+	color: #51ff9b;
+	}
+.comment-author .media-body .reply-button a{
+	background: #51ff9b;
+	}
+	/*-- section price table --*/
+.price{
+	background: url('../../images/price-tag-bg-tblue.png') no-repeat 50% 50%;
+	}
+.buy-now-button  a{
+	border: 3px solid #51f396;
+	background: #51ff9b;
+	}
+	/*-- section contact header --*/
+
+	/*-- section contact --*/
+.contact-form form .form-control:focus{
+	border-color: #51ff9b;
+	}
+.submit-button{
+	background: #51ff9b;
+	border: 2px solid #51f396;
+	}
+.submit-button:hover{
+	background: #51ff9b;
+	}
+	/*-- section footer --*/
+footer.bottom-footer{
+	background: #51ff9b;
+	}

@@ -1,0 +1,190 @@
+	/*======== default color violet.css ===*/
+	
+	/*-- nav menu --*/
+.navbar{
+	border-bottom: 3px solid #c937ff;
+	}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a.current{
+	background-color: #c937ff;
+	}
+.menu-item-has-children ul.sub-menu{
+	border-top: 3px solid #c937ff;
+	}
+ul.sub-menu li a:hover {
+	background: #c937ff;
+	}
+.go-section a{
+	color: #c937ff;
+	}
+	/*-- home parallax --*/
+.parallax-slider-caption h1 span{
+	color: #c937ff;
+	}
+.parallax-slider-caption p{
+	color: #c937ff;
+	}
+.parallax-home-button a:hover,.parallax-home-button a:focus{
+	background: #c937ff;
+	}
+	/*-- text slider --*/
+.slide-inner-slide ul li span{
+	color: #c937ff;
+	}
+.slide-inner-slide .home-flexslider .flex-control-nav li a.active{
+	background-color: #c937ff;
+	}
+.get-start-button:hover,.get-start-button:focus{
+	background: #c937ff;
+	}
+	/*-- section feather icon --*/
+.feather-icon{
+	background: url("../../images/six-angle-violet.png") no-repeat 50% 50%;
+	}
+.icon-style{
+	color: #c937ff;
+	}
+.link-style .more{
+	background-color: #c937ff;
+	}
+.feather-part:hover .feather-icon{
+	background: url("../../images/six-angle-hover-violet.png") no-repeat 50% 50%;
+	}
+.feather-part:hover.feather-part h3{
+	color: #c937ff;
+	}
+	/*-- section parallax one --*/
+.purchase-now .buy-now a span{
+	background-color: #c937ff;
+	}
+	/*-- section service --*/
+.section-header-title h1::after{
+	content: url('../../images/trade-mark-violet.png');
+	}
+.service-icon{
+	background: url('../../images/service-tab-violet.png') no-repeat 50% 50%;
+	}
+	/*-- section testimonials --*/
+.text-box-top{
+	border-top: 2px solid #c937ff;
+	}
+#testimonials-carousel .carousel-indicators .active{
+	background: #c937ff;
+	}
+	/*-- section portfolio --*/
+#filters button:hover{
+	background-color: #c937ff;
+	}
+#filters button.is-checked{
+	background-color: #c937ff;
+	}
+.portfolio-item-inner:hover figcaption{
+	background: rgba(201, 55, 255, 0.90);
+	}
+.project-date{
+	background-color: #c937ff;
+	}
+	/*-- section our team member --*/
+.our-team:hover .project-info{
+	background: #c937ff;
+	}
+	/*-- section capabilities --*/
+.section-header-title h3::after{
+	content: url('../../images/trade-mark-violet.png');
+	}
+	/*-- section social --*/
+.social:after{
+	background: rgba(201, 55, 255, 0.90);
+	}
+	/*-- section recent post --*/
+.post-date{
+	background: #c937ff;
+	}
+.post-image:hover .projectinfo{
+	background: #c937ff;
+	}
+.blog-header-title h1::after{
+	content: url('../../images/trade-mark-violet.png');
+	}
+.read-more a{
+	background-color: #c937ff;
+	}
+.search-input, .search-input:focus{
+	border-bottom: 1px solid #c937ff;
+	}
+.search-button{
+	background: #c937ff;
+	border-bottom: 1px solid #c937ff;
+	}
+.search-button:hover,
+.search-button:focus,
+.search-button:active{
+	background: #c937ff;
+	border-bottom: 1px solid #c937ff;
+	}
+.sidebar-content ul li a:hover{
+	background: #c937ff;
+	}
+.sidebar-content ul li a span{
+	background: #c937ff;
+	}
+.latest-post-title ul li:before{
+	color: #c937ff;
+	}
+.latest-post-title ul li a:hover{
+	color: #c937ff;
+	}
+.blog-tag-clouds ul li a:hover{
+	color: #c937ff;
+	}
+.blog-pagination ul li a:hover{
+	background: #c937ff;
+	border-color: #c937ff;
+	}
+.blog-pagination ul li a.active{
+	background: #c937ff;
+	border: 1px solid #c937ff;
+	}	
+#blog-single-image-slide .left span, #blog-single-image-slide .right span{
+	background: #c937ff;
+	}
+.single-post-inner-quote .quote-icon{
+	color: #c937ff;
+	}
+.single-post-inner-quote .link-title small{
+	color: #c937ff;
+	}
+.tag-link ul li a:hover{
+	color: #c937ff;
+	}
+.comment-section h4 span{
+	color: #c937ff;
+	}
+.comment-author .media-body .reply-button a{
+	background: #c937ff;
+	}
+	/*-- section price table --*/
+.price{
+	background: url('../../images/price-tag-bg-violet.png') no-repeat 50% 50%;
+	}
+.buy-now-button  a{
+	border: 3px solid #c030f5;
+	background: #c937ff;
+	}
+	/*-- section contact header --*/
+
+	/*-- section contact --*/
+.contact-form form .form-control:focus{
+	border-color: #c937ff;
+	}
+.submit-button{
+	background: #c937ff;
+	border: 2px solid #c030f5;
+	}
+.submit-button:hover{
+	background: #c937ff;
+	}
+	/*-- section footer --*/
+footer.bottom-footer{
+	background: #c937ff;
+	}
